@@ -1,3 +1,4 @@
+https://app.pluralsight.com/library/courses/seaborn-visualizing-statistical-data/table-of-contents <br>
 https://app.pluralsight.com/library/courses/numpy-working-with-multidimensional-data/table-of-contents<br>
 https://app.pluralsight.com/library/courses/pandas-fundamentals/table-of-contents <br>
 https://app.pluralsight.com/library/courses/django-views-apps-url-mappings/table-of-contents </br>
